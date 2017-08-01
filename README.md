@@ -84,3 +84,6 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.**
 *Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst.* NIPS, 2016 [paper](https://arxiv.org/abs/1606.09375), [code](https://github.com/mdeff/cnn_graph)
 
+1. **Graph Embedding Techniques, Applications, and Performance: A Survey.**
+*Palash Goyal, Emilio Ferrara.* arXiv [paper](https://arxiv.org/abs/1705.02801)
+
