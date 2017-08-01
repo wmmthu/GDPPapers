@@ -77,3 +77,10 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. **Variation Autoencoder Based Network Representation Learning for Classification.**
 *Hang Li, Haozheng Wang, Zhenglu Yang, Masato Odagaki.* ACL 2017. [paper](http://aclweb.org/anthology/P17-3010)
+
+1. **Geometric deep learning: going beyond Euclidean data.**
+*Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst.* IEEE Signal Processing Magazine, 2017 [paper](https://arxiv.org/pdf/1611.08097.pdf)
+
+1. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.**
+*Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst.* NIPS, 2016 [paper](https://arxiv.org/abs/1606.09375), [code](https://github.com/mdeff/cnn_graph)
+
