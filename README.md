@@ -86,3 +86,9 @@ Forked from https://github.com/thunlp/NRLPapers, and add some papers myself. Top
 1. **Graph Embedding Techniques, Applications, and Performance: A Survey.**
 *Palash Goyal, Emilio Ferrara.* arXiv [paper](https://arxiv.org/abs/1705.02801)
 
+1. **Predicting multicellular function through multi-layer tissue networks.**
+*Marinka Zitnik, Jure Leskovec.* Bioinformatics 2017, [paper](https://arxiv.org/abs/1707.04638)
+
+1. **Neuro-symbolic representation learning on biological knowledge graphs.**
+*Mona Alshahrani  Mohammad Asif Khan  Omar Maddouri  Akira R Kinjo Núria Queralt-Rosinach  Robert Hoehndorf.* Bioinformatics 2017, [paper](https://academic.oup.com/bioinformatics/article/3760100/Neuro-symbolic-representation-learning-on?searchresult=1)
+
