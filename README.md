@@ -1,7 +1,6 @@
-## Must-read papers on NRL/NE.
-NRL: network representation learning. NE: network embedding.
+## Must-read papers on Graph deep learning.
 
-Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
+Forked from [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. **DeepWalk: Online Learning of Social Representations.**
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.*  KDD 2014. [paper](https://arxiv.org/pdf/1403.6652) [code](https://github.com/phanein/deepwalk)
