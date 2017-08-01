@@ -1,6 +1,6 @@
 ## Must-read papers on Graph deep learning.
 
-Forked from https://github.com/thunlp/NRLPapers, and add some papers.
+Forked from https://github.com/thunlp/NRLPapers, and add some papers myself. Topics included: graph/network embedding/representation learning, graph CNN 
 
 1. **DeepWalk: Online Learning of Social Representations.**
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.*  KDD 2014. [paper](https://arxiv.org/pdf/1403.6652) [code](https://github.com/phanein/deepwalk)
