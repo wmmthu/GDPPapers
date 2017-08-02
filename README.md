@@ -92,3 +92,6 @@ Forked from https://github.com/thunlp/NRLPapers, and add some papers myself. Top
 1. **Neuro-symbolic representation learning on biological knowledge graphs.**
 *Mona Alshahrani  Mohammad Asif Khan  Omar Maddouri  Akira R Kinjo Núria Queralt-Rosinach  Robert Hoehndorf.* Bioinformatics 2017, [paper](https://academic.oup.com/bioinformatics/article/3760100/Neuro-symbolic-representation-learning-on?searchresult=1)
 
+1. **Deep Convolutional Networks on Graph-Structured Data.**
+*Mikael Henaff, Joan Bruna, Yann LeCun.* NIPS 2015, [paper](https://arxiv.org/abs/1506.05163)
+
